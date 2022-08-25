@@ -1,7 +1,7 @@
 package usecase
 
 import (
-	"github.com/shellrean-playground/hotel-be-hotel-manager-service/config"
+	"github.com/shellrean-playground/hotel-be-common-util/config"
 	"github.com/shellrean-playground/hotel-be-hotel-manager-service/domain"
 )
 
